@@ -1,0 +1,16 @@
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\bin\Debug\WpfAppRudneva.exe.config
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\bin\Debug\WpfAppRudneva.exe
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\bin\Debug\WpfAppRudneva.pdb
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.csproj.AssemblyReference.cache
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.csproj.SuggestedBindingRedirects.cache
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\MainWindow.g.cs
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\App.g.cs
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva_MarkupCompile.cache
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva_MarkupCompile.lref
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\MainWindow.baml
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.g.resources
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.Properties.Resources.resources
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.csproj.GenerateResource.cache
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.exe
+C:\Users\Аня\source\repos\WpfAppRudneva\WpfAppRudneva\obj\Debug\WpfAppRudneva.pdb
